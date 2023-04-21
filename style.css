@@ -3,7 +3,7 @@ p {
 }
 
 h1 {
-    color: light green;
+    color: lightgreen;
 }
 
 nav {
@@ -11,3 +11,7 @@ nav {
     background-color: aquamarine;
 }
     
+.title {
+   padding: 25px;
+   background-color: lightgreen;
+}
