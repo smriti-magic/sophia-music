@@ -20,3 +20,8 @@ nav {
    padding: 25px;
    background-color: lightgreen;
 }
+
+h2 {
+    color: cornflowerblue;
+    font-family: "Courier New";
+}
