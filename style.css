@@ -2,7 +2,7 @@ p {
    color: blue;
 }
 
-h1 {
+h1,h2 {
     color: cornflowerblue;
     font-family: "Courier New";
 }
@@ -21,7 +21,3 @@ nav {
    background-color: lightgreen;
 }
 
-h2 {
-    color: cornflowerblue;
-    font-family: "Courier New";
-}
